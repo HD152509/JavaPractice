@@ -67,7 +67,7 @@ public class Car {
 	{
 		System.out.println("제조사명 : " + Carinfo.company);
 		System.out.println("모델명 : " + Carinfo.model);
-		System.out.println("색상 : " + Carinfo.color);
+		System.out.println("색상 : " + Carinfo.color); 
 		System.out.println("최대속도 : " + Carinfo.maxSpeed + "km");
 		System.out.println("가격 : " + String.format("%,d",Carinfo.price) + "원");
 	}

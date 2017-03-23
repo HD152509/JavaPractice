@@ -47,7 +47,7 @@ public class CarTest {
 		car1.information(car1);
 		System.out.print('\n');
 		car2.information(car2);
-		System.out.print('\n');
+		System.out.print('\n'); 
 		car3.information(car3);
 
 	}
